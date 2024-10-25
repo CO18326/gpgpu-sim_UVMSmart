@@ -72,8 +72,8 @@ public:
       valid = false;
       dirty = false;
       access = false;
-      is_prefetched=false;
-      is_preevicted=false;
+      prefetched=false;
+      preevicted=false;
 
       counter = 0;
    }
@@ -88,8 +88,8 @@ public:
       valid = false;
       dirty = false;
       access = false;
-      is_prefetched=false;
-      is_preevicted=false;
+      prefetched=false;
+      preevicted=false;
       counter = 0;
    }
    ~mem_storage()

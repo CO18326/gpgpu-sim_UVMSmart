@@ -365,6 +365,7 @@ private:
     unsigned long long page_table_walk_latency;
 
     int   eviction_policy;
+    int   dynamic_mode_enabled;
     bool  invalidate_clean;
     float reserve_accessed_page_percent;
     float free_page_buffer_percentage;
@@ -770,7 +771,7 @@ private:
     eviction_policy evict_policy;    
     hwardware_prefetcher prefetcher;
     hwardware_prefetcher_oversub oversub_prefetcher;
-
+    int dynamic_mode_enabled;
     dma_type dma_mode;
 
     struct prefetch_req {

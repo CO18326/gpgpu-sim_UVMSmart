@@ -3115,7 +3115,7 @@ void gmmu_t::cycle()
 	}
 
         
-        if(evict_policy== eviction_policy::DYNAMIC && m_gpu->get_global_memory()->switch_policy(7000)){
+        if(m_config.dynamic_mode_enabled && m_gpu->get_global_memory()->switch_policy(7000)){
             evict_policy=eviction_policy::SEQUENTIAL_LOCAL;
         }
         page_eviction_procedure();
@@ -3431,7 +3431,7 @@ void gmmu_t::cycle()
         page_table_walk_queue.pop_front();
     }
 
-     if(m_gpu->get_global_memory()->switch_policy(7000)){
+     if(m_config.dynamic_mode_enabled  && m_gpu->get_global_memory()->switch_policy(7000)){
         prefetcher=hwardware_prefetcher::SEQUENTIAL_LOCAL ;
     }
 
