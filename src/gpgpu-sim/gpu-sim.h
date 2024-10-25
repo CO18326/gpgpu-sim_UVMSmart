@@ -747,13 +747,13 @@ private:
     std::list<eviction_t *> valid_pages;
 
     // page eviction policy
-    enum class eviction_policy { LRU, TBN, SEQUENTIAL_LOCAL, RANDOM, LFU, LRU4K }; 
+    enum class eviction_policy { LRU, TBN, SEQUENTIAL_LOCAL, RANDOM, LFU, LRU4K , DYNAMIC}; 
 
     // types of hardware prefetcher
-    enum class hwardware_prefetcher { DISBALED, TBN, SEQUENTIAL_LOCAL, RANDOM }; 
+    enum class hwardware_prefetcher { DISBALED, TBN, SEQUENTIAL_LOCAL, RANDOM , DYNAMIC}; 
 
     // types of hardware prefetcher under over-subscription
-    enum class hwardware_prefetcher_oversub { DISBALED, TBN, SEQUENTIAL_LOCAL, RANDOM };
+    enum class hwardware_prefetcher_oversub { DISBALED, TBN, SEQUENTIAL_LOCAL, RANDOM, DYNAMIC };
 
     // type of DMA
     enum class dma_type { DISABLED, ADAPTIVE, ALWAYS, OVERSUB };

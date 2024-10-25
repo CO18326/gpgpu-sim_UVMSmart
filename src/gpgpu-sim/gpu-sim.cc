@@ -1965,7 +1965,11 @@ gmmu_t::gmmu_t(class gpgpu_sim* gpu, const gpgpu_sim_config &config, class gpgpu
        evict_policy = eviction_policy::LFU;
     } else if ( m_config.eviction_policy == 5 ) {
        evict_policy = eviction_policy::LRU4K;
-    } else {
+    } 
+    else if ( m_config.eviction_policy == 6 ) {
+       evict_policy = eviction_policy::DYNAMIC;
+    }
+    else {
         printf("Unknown eviction policy"); 
         exit(1);
     }
@@ -1978,7 +1982,11 @@ gmmu_t::gmmu_t(class gpgpu_sim* gpu, const gpgpu_sim_config &config, class gpgpu
         prefetcher = hwardware_prefetcher::SEQUENTIAL_LOCAL;
     } else if ( m_config.hardware_prefetch == 3 ) {
         prefetcher = hwardware_prefetcher::RANDOM;
-    } else {
+    } 
+    else if ( m_config.hardware_prefetch == 4 ) {
+       prefetcher = hwardware_prefetcher::DYNAMIC;
+    }
+    else {
         printf("Unknown hardware prefeching policy");
         exit(1);
     }
@@ -1991,7 +1999,11 @@ gmmu_t::gmmu_t(class gpgpu_sim* gpu, const gpgpu_sim_config &config, class gpgpu
         oversub_prefetcher = hwardware_prefetcher_oversub::SEQUENTIAL_LOCAL;
     } else if ( m_config.hwprefetch_oversub == 3 ) {
         oversub_prefetcher = hwardware_prefetcher_oversub::RANDOM;
-    } else {
+    } 
+     else if ( m_config.hwprefetch_oversub == 4 ) {
+        oversub_prefetcher = hwardware_prefetcher_oversub::DYNAMIC;
+    } 
+    else {
         printf("Unknown hardware prefeching policy under over-subscription");
         exit(1);
     }
@@ -3102,6 +3114,10 @@ void gmmu_t::cycle()
 	    update_memory_management_policy();
 	}
 
+        
+        if(evict_policy== eviction_policy::DYNAMIC && m_gpu->get_global_memory()->switch_policy(7000)){
+            evict_policy=eviction_policy::SEQUENTIAL_LOCAL;
+        }
         page_eviction_procedure();
     }
     
@@ -3149,6 +3165,7 @@ void gmmu_t::cycle()
             }
 
             m_gpu->get_global_memory()->invalidate_page( *iter );
+            m_gpu->get_global_memory()->mark_page_as_preevicted(*iter);
 	    m_gpu->get_global_memory()->clear_page_dirty( *iter );
 	    m_gpu->get_global_memory()->clear_page_access( *iter );
 
@@ -3210,6 +3227,8 @@ void gmmu_t::cycle()
                         // pending prefetch holds the list of 4KB pages of a big chunk of tranfer (max upto 2MB)
                         // remove it from the list as the PCI-e has transferred the page
 	                pre_q.pending_prefetch.erase(iter2);
+
+                    m_gpu->get_global_memory()->mark_page_as_prefetch(*iter);
 		
 		        // if this page is part of current prefecth request 
                         // add all the dependant memory requests to the outgoing_replayable_nacks
@@ -3342,6 +3361,13 @@ void gmmu_t::cycle()
         // if there is no page fault, directly return to the upward queue of cluster
         if ( page_list.empty() ) {
 	    mem_addr_t page_num = m_gpu->get_global_memory()->get_page_num( mf->get_mem_access().get_addr());
+        /************************************************************************************************************* */
+        
+        if(m_gpu->get_global_memory()->is_prefetched(page_num)){
+            m_gpu->get_global_memory()->decrement_counter();
+        }
+
+        /************************************************************************************************************** */
 	    check_write_stage_queue(page_num, false);
 
             (m_gpu->getSIMTCluster(simt_cluster_id))->push_gmmu_cu_queue(mf);
@@ -3403,6 +3429,10 @@ void gmmu_t::cycle()
         }
 
         page_table_walk_queue.pop_front();
+    }
+
+     if(m_gpu->get_global_memory()->switch_policy(7000)){
+        prefetcher=hwardware_prefetcher::SEQUENTIAL_LOCAL ;
     }
 
     // call hardware prefetcher based on the current page faults

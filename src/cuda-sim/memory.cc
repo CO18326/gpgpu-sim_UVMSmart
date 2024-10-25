@@ -193,6 +193,20 @@ template<unsigned BSIZE> bool memory_space_impl<BSIZE>::is_valid (mem_addr_t pg_
    return m_data[pg_index].is_valid();
 }
 
+template<unsigned BSIZE> bool memory_space_impl<BSIZE>::is_preevicted (mem_addr_t pg_index) 
+{
+   
+   assert(m_data.find(pg_index) != m_data.end()); 
+   return m_data[pg_index].is_preevicted();
+}
+
+template<unsigned BSIZE> bool memory_space_impl<BSIZE>::is_prefetched (mem_addr_t pg_index) 
+{
+   
+   assert(m_data.find(pg_index) != m_data.end()); 
+   return m_data[pg_index].is_prefetched();
+}
+
 // set the valid flag of corresponding physical page 
 template<unsigned BSIZE> void memory_space_impl<BSIZE>::validate_page (mem_addr_t pg_index)
 {
@@ -200,6 +214,36 @@ template<unsigned BSIZE> void memory_space_impl<BSIZE>::validate_page (mem_addr_
    m_data[pg_index].validate_page();
 }
 
+// mark the page as prefetched
+template<unsigned BSIZE> void memory_space_impl<BSIZE>::mark_page_as_prefetch (mem_addr_t pg_index)
+{
+   assert(m_data.find(pg_index) != m_data.end());
+   m_data[pg_index].set_prefetched();
+}
+
+
+// mark the page as preevicted
+template<unsigned BSIZE> void memory_space_impl<BSIZE>::mark_page_as_preevicted (mem_addr_t pg_index)
+{
+   assert(m_data.find(pg_index) != m_data.end());
+   m_data[pg_index].set_preevicted();
+}
+
+template<unsigned BSIZE> void memory_space_impl<BSIZE>::increment_counter ()
+{
+   thrashing_counter++;
+}
+
+template<unsigned BSIZE> void memory_space_impl<BSIZE>::decrement_counter(){
+   thrashing_counter--;
+ }
+
+ template<unsigned BSIZE> bool memory_space_impl<BSIZE>::switch_policy(int32_t threshhold){
+   if(thrashing_counter > threshhold){
+      return true;
+   }
+   return false;
+ }
 // clear the valid flag of corresponding physical page 
 template<unsigned BSIZE> void memory_space_impl<BSIZE>::invalidate_page (mem_addr_t pg_index)
 {
@@ -218,6 +262,10 @@ template<unsigned BSIZE> std::list<mem_addr_t> memory_space_impl<BSIZE>::get_fau
   
   while(start_page <= end_page) {
       if (!is_valid(start_page)) {
+          if (is_preevicted(start_page))
+          {
+            increment_counter();
+          }
           page_list.push_back(start_page);
       }
       start_page++;

@@ -72,6 +72,8 @@ public:
       valid = false;
       dirty = false;
       access = false;
+      is_prefetched=false;
+      is_preevicted=false;
 
       counter = 0;
    }
@@ -86,6 +88,8 @@ public:
       valid = false;
       dirty = false;
       access = false;
+      is_prefetched=false;
+      is_preevicted=false;
       counter = 0;
    }
    ~mem_storage()
@@ -124,8 +128,12 @@ public:
 
    // methods to query and modify page table flags
    bool is_valid	()	{ return valid;  }
+   bool is_prefetched	()	{ return prefetched;  }
+   bool is_preevicted	()	{ return preevicted;  }
    void validate_page	()	{ valid = true;  }
    void invalidate_page	()	{ valid = false; }
+   void set_prefetched()   {prefetched = true;}
+   void set_preevicted()   {preevicted = true;}
 
    void set_dirty       ()      { dirty = true;  }
    void clear_dirty     ()      { dirty = false; }
@@ -146,6 +154,8 @@ private:
    bool managed;
 
    // flags for page table
+   bool prefetched;
+   bool preevicted;
    bool valid;
 
    bool dirty;
@@ -172,6 +182,11 @@ public:
    // method to set the pages as managed allocation
    virtual void set_pages_managed( mem_addr_t addr, size_t length) = 0;
 
+
+   virtual void increment_counter()=0;
+   virtual void decrement_counter()=0;
+   virtual bool switch_policy(int32_t threshhold)=0;
+
    // method to allocate page(s) from free pages and change the count of free pages
    virtual bool alloc_page_by_byte(size_t size) = 0;
    virtual void alloc_pages(size_t num) = 0;
@@ -188,6 +203,8 @@ public:
 
    // methods to query page table
    virtual void				validate_page	(mem_addr_t pg_index) = 0;
+   virtual void            mark_page_as_prefetch (mem_addr_t pg_index) = 0;
+   virtual void            mark_page_as_preevicted (mem_addr_t pg_index) = 0;
    virtual void				invalidate_page	(mem_addr_t pg_index)  = 0;
    virtual std::list<mem_addr_t>	get_faulty_pages(mem_addr_t addr, size_t length) = 0;
    virtual mem_addr_t           	get_page_num    (mem_addr_t addr) = 0;
@@ -196,6 +213,8 @@ public:
    virtual size_t                       get_page_size() = 0;
    virtual mem_addr_t                   get_mem_addr(mem_addr_t pg_index) = 0;
    virtual bool                         is_valid (mem_addr_t pg_index) = 0;
+   virtual bool                         is_prefetched (mem_addr_t pg_index) = 0;
+   virtual bool                         is_preevicted (mem_addr_t pg_index) = 0;
    virtual bool				should_evict_page(size_t read_stage_queue_size, size_t write_stage_queue_size, float eviction_buffer_percentage) = 0;
    virtual float			get_projected_occupancy(size_t read_stage_queue_size, size_t write_stage_queue_size, float eviction_buffer_percentage) = 0;
 
@@ -218,7 +237,12 @@ public:
    
    // methods to query page table
    virtual void				validate_page	(mem_addr_t pg_index);
+   virtual void            mark_page_as_prefetch (mem_addr_t pg_index);
+   virtual void            mark_page_as_preevicted (mem_addr_t pg_index);
    virtual void				invalidate_page	(mem_addr_t pg_index);
+   virtual void             increment_counter() ;
+   virtual void             decrement_counter() ;
+   virtual bool             switch_policy(int32_t threshhold);
    virtual std::list<mem_addr_t>	get_faulty_pages(mem_addr_t addr, size_t length);
    virtual mem_addr_t                   get_page_num    (mem_addr_t addr);
 
@@ -241,6 +265,8 @@ public:
    virtual mem_addr_t get_mem_addr(mem_addr_t pg_index);
 
    virtual bool is_valid (mem_addr_t pg_index);
+   virtual bool is_prefetched (mem_addr_t pg_index) ;
+   virtual bool is_preevicted (mem_addr_t pg_index) ;
    virtual bool should_evict_page(size_t read_stage_queue_size, size_t write_stage_queue_size, float eviction_buffer_percentage);   
    virtual float get_projected_occupancy(size_t read_stage_queue_size, size_t write_stage_queue_size, float eviction_buffer_percentage);   
 
@@ -265,6 +291,8 @@ private:
 
    // the size of gddr in number of pages
    const size_t num_gddr_pages;
+
+   int32_t thrashing_counter;
 
    std::map<unsigned,mem_addr_t> m_watchpoints;
    
