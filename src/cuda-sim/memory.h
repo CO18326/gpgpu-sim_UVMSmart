@@ -185,6 +185,7 @@ public:
 
    virtual void increment_counter()=0;
    virtual void decrement_counter()=0;
+   virtual int get_counter()=0;
    virtual bool switch_policy(int32_t threshhold)=0;
 
    // method to allocate page(s) from free pages and change the count of free pages
@@ -242,6 +243,7 @@ public:
    virtual void				invalidate_page	(mem_addr_t pg_index);
    virtual void             increment_counter() ;
    virtual void             decrement_counter() ;
+   virtual int              get_counter() ;
    virtual bool             switch_policy(int32_t threshhold);
    virtual std::list<mem_addr_t>	get_faulty_pages(mem_addr_t addr, size_t length);
    virtual mem_addr_t                   get_page_num    (mem_addr_t addr);

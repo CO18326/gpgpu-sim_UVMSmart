@@ -120,6 +120,7 @@ void calculate_sim_prof(FILE *fout, gpgpu_sim *gpu)
 
     fprintf(fout, "Tot_prefetch_time: %llu(cycle), %f(us)\n", prefetch_time, ((float)prefetch_time)/freq);
     fprintf(fout, "Tot_kernel_exec_time: %llu(cycle), %f(us)\n", kernel_time, ((float)kernel_time)/freq);
+    fprintf(fout, "Thrashing Counter: %ld",gpu->get_global_memory()->get_counter());
 
     if( !gpu->get_config().enable_accurate_simulation ) {
 	fprintf(fout, "Tot_kernel_exec_time_and_fault_time: %llu(cycle), %f(us)\n", 
@@ -559,6 +560,10 @@ void gpgpu_sim_config::reg_options(option_parser_t opp)
 
     option_parser_register(opp, "-eviction_policy", OPT_INT32, &eviction_policy,                 
                "Select page eviction policy",
+               "0");
+
+    option_parser_register(opp, "-dynamic_mode_enabled", OPT_INT32, &dynamic_mode_enabled,                 
+               "dynamic mode check",
                "0");
 
     option_parser_register(opp, "-invalidate_clean", OPT_BOOL, &invalidate_clean,                 

@@ -234,6 +234,11 @@ template<unsigned BSIZE> void memory_space_impl<BSIZE>::increment_counter ()
    thrashing_counter++;
 }
 
+template<unsigned BSIZE> int memory_space_impl<BSIZE>::get_counter ()
+{
+   return thrashing_counter;
+}
+
 template<unsigned BSIZE> void memory_space_impl<BSIZE>::decrement_counter(){
    thrashing_counter--;
  }
