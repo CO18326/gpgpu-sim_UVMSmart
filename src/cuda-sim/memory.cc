@@ -46,6 +46,7 @@ template<unsigned BSIZE> memory_space_impl<BSIZE>::memory_space_impl( std::strin
 
    // initialize the number of free pages based on size of GDDR5 and page size
    num_free_pages = num_gddr_pages;
+   thrashing_counter=0;
 }
 
 template<unsigned BSIZE> void memory_space_impl<BSIZE>::write( mem_addr_t addr, size_t length, const void *data, class ptx_thread_info *thd, const ptx_instruction *pI)
