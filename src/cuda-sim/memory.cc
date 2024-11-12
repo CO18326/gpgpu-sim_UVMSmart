@@ -47,6 +47,7 @@ template<unsigned BSIZE> memory_space_impl<BSIZE>::memory_space_impl( std::strin
    // initialize the number of free pages based on size of GDDR5 and page size
    num_free_pages = num_gddr_pages;
    thrashing_counter=0;
+   hit_counter =0;
 }
 
 template<unsigned BSIZE> void memory_space_impl<BSIZE>::write( mem_addr_t addr, size_t length, const void *data, class ptx_thread_info *thd, const ptx_instruction *pI)
@@ -235,17 +236,22 @@ template<unsigned BSIZE> void memory_space_impl<BSIZE>::increment_counter ()
    thrashing_counter++;
 }
 
-template<unsigned BSIZE> int memory_space_impl<BSIZE>::get_counter ()
+template<unsigned BSIZE> int memory_space_impl<BSIZE>::get_counter()
 {
    return thrashing_counter;
 }
 
+template<unsigned BSIZE> int memory_space_impl<BSIZE>::get_hit_counter ()
+{
+   return hit_counter;
+}
+
 template<unsigned BSIZE> void memory_space_impl<BSIZE>::decrement_counter(){
-   thrashing_counter--;
+   hit_counter++;
  }
 
  template<unsigned BSIZE> bool memory_space_impl<BSIZE>::switch_policy(int32_t threshhold){
-   if(thrashing_counter > threshhold){
+   if(thrashing_counter > hit_counter){
       return true;
    }
    return false;

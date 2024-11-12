@@ -121,6 +121,7 @@ void calculate_sim_prof(FILE *fout, gpgpu_sim *gpu)
     fprintf(fout, "Tot_prefetch_time: %llu(cycle), %f(us)\n", prefetch_time, ((float)prefetch_time)/freq);
     fprintf(fout, "Tot_kernel_exec_time: %llu(cycle), %f(us)\n", kernel_time, ((float)kernel_time)/freq);
     fprintf(fout, "Thrashing Counter: %ld\n",gpu->get_global_memory()->get_counter());
+    fprintf(fout, "Hit Counter: %ld\n",gpu->get_global_memory()->get_hit_counter());
 
     if( !gpu->get_config().enable_accurate_simulation ) {
 	fprintf(fout, "Tot_kernel_exec_time_and_fault_time: %llu(cycle), %f(us)\n", 

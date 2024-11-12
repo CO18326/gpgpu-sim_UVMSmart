@@ -130,10 +130,10 @@ public:
    bool is_valid	()	{ return valid;  }
    bool is_prefetched	()	{ return prefetched;  }
    bool is_preevicted	()	{ return preevicted;  }
-   void validate_page	()	{ valid = true;  }
-   void invalidate_page	()	{ valid = false; }
-   void set_prefetched()   {prefetched = true;}
-   void set_preevicted()   {preevicted = true;}
+   void validate_page	()	{ valid = true;  preevicted = false;}
+   void invalidate_page	()	{ valid = false; prefetched = false;}
+   void set_prefetched()   { prefetched = true; }
+   void set_preevicted()   { preevicted = true; }
 
    void set_dirty       ()      { dirty = true;  }
    void clear_dirty     ()      { dirty = false; }
@@ -186,6 +186,7 @@ public:
    virtual void increment_counter()=0;
    virtual void decrement_counter()=0;
    virtual int get_counter()=0;
+   virtual int get_hit_counter()=0;
    virtual bool switch_policy(int32_t threshhold)=0;
 
    // method to allocate page(s) from free pages and change the count of free pages
@@ -243,7 +244,8 @@ public:
    virtual void				invalidate_page	(mem_addr_t pg_index);
    virtual void             increment_counter() ;
    virtual void             decrement_counter() ;
-   virtual int              get_counter() ;
+   virtual int           get_counter() ;
+   virtual int          get_hit_counter();
    virtual bool             switch_policy(int32_t threshhold);
    virtual std::list<mem_addr_t>	get_faulty_pages(mem_addr_t addr, size_t length);
    virtual mem_addr_t                   get_page_num    (mem_addr_t addr);
@@ -295,6 +297,7 @@ private:
    const size_t num_gddr_pages;
 
    int32_t thrashing_counter;
+   int32_t hit_counter;
 
    std::map<unsigned,mem_addr_t> m_watchpoints;
    
