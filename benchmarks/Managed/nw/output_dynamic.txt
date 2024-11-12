@@ -1,0 +1,567 @@
+Page: 788318 Thrashed: 1
+Page: 788319 Thrashed: 1
+Page: 788320 Thrashed: 1
+Page: 788321 Thrashed: 1
+Page: 788322 Thrashed: 1
+Page: 788323 Thrashed: 1
+Page: 788324 Thrashed: 1
+Page: 788325 Thrashed: 1
+Page: 788326 Thrashed: 1
+Page: 788327 Thrashed: 1
+Page: 788328 Thrashed: 1
+Page: 788329 Thrashed: 1
+Page: 788330 Thrashed: 1
+Page: 788331 Thrashed: 1
+Page: 788332 Thrashed: 1
+Page: 788333 Thrashed: 1
+Page: 788334 Thrashed: 1
+Page: 788335 Thrashed: 1
+Page: 788336 Thrashed: 1
+Page: 788337 Thrashed: 1
+Page: 788338 Thrashed: 1
+Page: 788339 Thrashed: 1
+Page: 788340 Thrashed: 1
+Page: 788341 Thrashed: 1
+Page: 788342 Thrashed: 1
+Page: 788343 Thrashed: 1
+Page: 788344 Thrashed: 1
+Page: 788345 Thrashed: 1
+Page: 788346 Thrashed: 1
+Page: 788347 Thrashed: 1
+Page: 788348 Thrashed: 1
+Page: 788349 Thrashed: 1
+Page: 788350 Thrashed: 1
+Page: 788351 Thrashed: 1
+Page: 788352 Thrashed: 1
+Page: 788353 Thrashed: 1
+Page: 788354 Thrashed: 1
+Page: 788355 Thrashed: 1
+Page: 788356 Thrashed: 1
+Page: 788357 Thrashed: 1
+Page: 788358 Thrashed: 1
+Page: 788359 Thrashed: 1
+Page: 788360 Thrashed: 1
+Page: 788361 Thrashed: 1
+Page: 788362 Thrashed: 1
+Page: 788363 Thrashed: 1
+Page: 788364 Thrashed: 1
+Page: 788365 Thrashed: 1
+Page: 788366 Thrashed: 1
+Page: 788367 Thrashed: 1
+Page: 788384 Thrashed: 1
+Page: 788385 Thrashed: 1
+Page: 788386 Thrashed: 1
+Page: 788387 Thrashed: 1
+Page: 788388 Thrashed: 1
+Page: 788389 Thrashed: 1
+Page: 788390 Thrashed: 1
+Page: 788391 Thrashed: 1
+Page: 788392 Thrashed: 1
+Page: 788393 Thrashed: 1
+Page: 788394 Thrashed: 1
+Page: 788395 Thrashed: 1
+Page: 788396 Thrashed: 1
+Page: 788397 Thrashed: 1
+Page: 788398 Thrashed: 1
+Page: 788399 Thrashed: 1
+Page: 788416 Thrashed: 1
+Page: 788417 Thrashed: 1
+Page: 788418 Thrashed: 1
+Page: 788419 Thrashed: 1
+Page: 788420 Thrashed: 1
+Page: 788421 Thrashed: 1
+Page: 788422 Thrashed: 1
+Page: 788423 Thrashed: 1
+Page: 788424 Thrashed: 1
+Page: 788425 Thrashed: 1
+Page: 788426 Thrashed: 1
+Page: 788427 Thrashed: 1
+Page: 788428 Thrashed: 1
+Page: 788429 Thrashed: 1
+Page: 788430 Thrashed: 1
+Page: 788431 Thrashed: 1
+Page: 788432 Thrashed: 1
+Page: 788433 Thrashed: 1
+Page: 788434 Thrashed: 1
+Page: 788435 Thrashed: 1
+Page: 788436 Thrashed: 1
+Page: 788437 Thrashed: 1
+Page: 788438 Thrashed: 1
+Page: 788439 Thrashed: 1
+Page: 788440 Thrashed: 1
+Page: 788441 Thrashed: 1
+Page: 788442 Thrashed: 1
+Page: 788443 Thrashed: 1
+Page: 788444 Thrashed: 1
+Page: 788445 Thrashed: 1
+Page: 788446 Thrashed: 1
+Page: 788447 Thrashed: 1
+Page: 788448 Thrashed: 1
+Page: 788449 Thrashed: 1
+Page: 788450 Thrashed: 1
+Page: 788451 Thrashed: 1
+Page: 788452 Thrashed: 1
+Page: 788453 Thrashed: 1
+Page: 788454 Thrashed: 1
+Page: 788455 Thrashed: 1
+Page: 788456 Thrashed: 1
+Page: 788457 Thrashed: 1
+Page: 788458 Thrashed: 1
+Page: 788459 Thrashed: 1
+Page: 788460 Thrashed: 1
+Page: 788461 Thrashed: 1
+Page: 788462 Thrashed: 1
+Page: 788463 Thrashed: 1
+Page: 788464 Thrashed: 1
+Page: 788465 Thrashed: 1
+Page: 788466 Thrashed: 1
+Page: 788467 Thrashed: 1
+Page: 788468 Thrashed: 1
+Page: 788469 Thrashed: 1
+Page: 788470 Thrashed: 1
+Page: 788471 Thrashed: 1
+Page: 788472 Thrashed: 1
+Page: 788473 Thrashed: 1
+Page: 788474 Thrashed: 1
+Page: 788475 Thrashed: 1
+Page: 788476 Thrashed: 1
+Page: 788477 Thrashed: 1
+Page: 788478 Thrashed: 1
+Page: 788479 Thrashed: 1
+Page: 788480 Thrashed: 1
+Page: 788481 Thrashed: 1
+Page: 788482 Thrashed: 1
+Page: 788483 Thrashed: 1
+Page: 788484 Thrashed: 1
+Page: 788485 Thrashed: 1
+Page: 788486 Thrashed: 1
+Page: 788487 Thrashed: 1
+Page: 788488 Thrashed: 1
+Page: 788489 Thrashed: 1
+Page: 788490 Thrashed: 1
+Page: 788491 Thrashed: 1
+Page: 788492 Thrashed: 1
+Page: 788493 Thrashed: 1
+Page: 788494 Thrashed: 1
+Page: 788495 Thrashed: 1
+Page_tot_thrash: 1200
+========================================Memory access statistics==============================
+========================================Prefetch statistics==============================
+Tot_page_hit: 0, Tot_page_miss: 2054, Tot_page_fault: 6
+Avg_page_latency: 241398.421875, Avg_prefetch_size: 1402197.375000, Avg_prefetch_latency: 164179.500000
+========================================Rdma statistics==============================
+dma_read: 0
+dma_migration_read 0
+dma_migration_write 0
+========================================PCI-e statistics==============================
+Pcie_read_utilization: 0.639829
+[0-25]: 0.076033, [26-50]: 0.039772, [51-75]: 0.884195, [76-100]: 0.000000
+Pcie_write_utilization: 0.653125
+[0-25]: 0.000000, [26-50]: 0.000000, [51-75]: 1.000000, [76-100]: 0.000000
+F:        0----T:   487250 	 St: c0000000 Sz: 4206592 	 Sm: 1 	 T: prefetch(329.000671)
+F:        1----T:   242082 	 St: c0000000 Sz: 2097152 	 Sm: 1 	 T: prefetch_breakdown(163.457794)
+F:        1----T:   985079 	 St: c0410000 Sz: 4206592 	 Sm: 2 	 T: prefetch(665.143799)
+F:        2----T:   242082 	 St: c0001000 Sz: 2097152 	 Sm: 0 	 T: memcpy_h2d(163.457123)
+F:   242082----T:   484163 	 St: c0200000 Sz: 2097152 	 Sm: 1 	 T: prefetch_breakdown(163.457794)
+F:   242083----T:   484163 	 St: c0201000 Sz: 2097152 	 Sm: 0 	 T: memcpy_h2d(163.457123)
+F:   291935----T:   999826 	 	 	 Kl: 1 	 Sm: 3 	 T: kernel_launch(477.981781)
+F:   484163----T:   487250 	 St: c0400000 Sz: 12288 	 Sm: 1 	 T: prefetch_breakdown(2.084402)
+F:   484164----T:   487250 	 St: c0401000 Sz: 12288 	 Sm: 0 	 T: memcpy_h2d(2.083727)
+F:   487251----T:   729332 	 St: c0410000 Sz: 2097152 	 Sm: 2 	 T: prefetch_breakdown(163.457794)
+F:   487252----T:   729332 	 St: c0411000 Sz: 2097152 	 Sm: 0 	 T: memcpy_h2d(163.457123)
+F:   729332----T:   971413 	 St: c0610000 Sz: 2097152 	 Sm: 2 	 T: prefetch_breakdown(163.457794)
+F:   729333----T:   971413 	 St: c0611000 Sz: 2097152 	 Sm: 0 	 T: memcpy_h2d(163.457123)
+F:   729333----T:   738035 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:   738036----T:   746738 	 St: c0010000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:   971413----T:   974213 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F:   971413----T:   985079 	 St: c0810000 Sz: 12288 	 Sm: 2 	 T: prefetch_breakdown(9.227549)
+F:   974213----T:   981993 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F:   981993----T:   985079 	 St: c0811000 Sz: 12288 	 Sm: 0 	 T: memcpy_h2d(2.083727)
+F:   987460----T:   990065 	 St: c0010000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:   987460----T:   996162 	 St: c0200000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:   990065----T:   998305 	 St: c0011000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  1221976----T:  1235859 	 	 	 Kl: 2 	 Sm: 3 	 T: kernel_launch(9.374071)
+F:  1458009----T:  1471814 	 	 	 Kl: 3 	 Sm: 3 	 T: kernel_launch(9.321404)
+F:  1693964----T:  1707758 	 	 	 Kl: 4 	 Sm: 3 	 T: kernel_launch(9.313977)
+F:  1929908----T:  1943785 	 	 	 Kl: 5 	 Sm: 3 	 T: kernel_launch(9.370020)
+F:  2165935----T:  2179879 	 	 	 Kl: 6 	 Sm: 3 	 T: kernel_launch(9.415260)
+F:  2402029----T:  2415935 	 	 	 Kl: 7 	 Sm: 3 	 T: kernel_launch(9.389602)
+F:  2638085----T:  2648673 	 	 	 Kl: 8 	 Sm: 3 	 T: kernel_launch(7.149223)
+F:  2870823----T:  2881422 	 	 	 Kl: 9 	 Sm: 3 	 T: kernel_launch(7.156651)
+F:  3103572----T:  3114205 	 	 	 Kl: 10 	 Sm: 3 	 T: kernel_launch(7.179608)
+F:  3336355----T:  3346955 	 	 	 Kl: 11 	 Sm: 3 	 T: kernel_launch(7.157326)
+F:  3569105----T:  3579693 	 	 	 Kl: 12 	 Sm: 3 	 T: kernel_launch(7.149223)
+F:  3801843----T:  3812450 	 	 	 Kl: 13 	 Sm: 3 	 T: kernel_launch(7.162053)
+F:  4034600----T:  4045233 	 	 	 Kl: 14 	 Sm: 3 	 T: kernel_launch(7.179608)
+F:  4267383----T:  4277981 	 	 	 Kl: 15 	 Sm: 3 	 T: kernel_launch(7.155976)
+F:  4500131----T:  4510719 	 	 	 Kl: 16 	 Sm: 3 	 T: kernel_launch(7.149223)
+F:  4732869----T:  4743472 	 	 	 Kl: 17 	 Sm: 3 	 T: kernel_launch(7.159352)
+F:  4965622----T:  4976255 	 	 	 Kl: 18 	 Sm: 3 	 T: kernel_launch(7.179608)
+F:  5198405----T:  5209010 	 	 	 Kl: 19 	 Sm: 3 	 T: kernel_launch(7.160702)
+F:  5431160----T:  5441747 	 	 	 Kl: 20 	 Sm: 3 	 T: kernel_launch(7.148548)
+F:  5663897----T:  5674500 	 	 	 Kl: 21 	 Sm: 3 	 T: kernel_launch(7.159352)
+F:  5896650----T:  5907299 	 	 	 Kl: 22 	 Sm: 3 	 T: kernel_launch(7.190412)
+F:  6129449----T:  6140057 	 	 	 Kl: 23 	 Sm: 3 	 T: kernel_launch(7.162728)
+F:  6362207----T:  6372843 	 	 	 Kl: 24 	 Sm: 3 	 T: kernel_launch(7.181634)
+F:  6594993----T:  6605684 	 	 	 Kl: 25 	 Sm: 3 	 T: kernel_launch(7.218771)
+F:  6827834----T:  6838470 	 	 	 Kl: 26 	 Sm: 3 	 T: kernel_launch(7.181634)
+F:  7060620----T:  7071243 	 	 	 Kl: 27 	 Sm: 3 	 T: kernel_launch(7.172856)
+F:  7293393----T:  7304148 	 	 	 Kl: 28 	 Sm: 3 	 T: kernel_launch(7.261985)
+F:  7526298----T:  7536837 	 	 	 Kl: 29 	 Sm: 3 	 T: kernel_launch(7.116138)
+F:  7758987----T:  7769930 	 	 	 Kl: 30 	 Sm: 3 	 T: kernel_launch(7.388927)
+F:  7992080----T:  8002734 	 	 	 Kl: 31 	 Sm: 3 	 T: kernel_launch(7.193788)
+F:  8224884----T:  8241983 	 	 	 Kl: 32 	 Sm: 3 	 T: kernel_launch(11.545577)
+F:  8231137----T:  8233742 	 St: c0200000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  8231137----T:  8239839 	 St: c0210000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8233742----T:  8241982 	 St: c0201000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  8464133----T:  8491977 	 	 	 Kl: 33 	 Sm: 3 	 T: kernel_launch(18.800810)
+F:  8470286----T:  8472891 	 St: c0210000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  8470286----T:  8478988 	 St: c0620000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8472891----T:  8481131 	 St: c0211000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  8478989----T:  8487691 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8481131----T:  8483736 	 St: c0620000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  8483736----T:  8491976 	 St: c0621000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  8714127----T:  8735924 	 	 	 Kl: 34 	 Sm: 3 	 T: kernel_launch(14.717758)
+F:  8714498----T:  8717298 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F:  8714498----T:  8723200 	 St: c0220000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8717298----T:  8725078 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F:  8723201----T:  8731903 	 St: c0230000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8725078----T:  8727683 	 St: c0220000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  8727683----T:  8735923 	 St: c0221000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  8958074----T:  8985919 	 	 	 Kl: 35 	 Sm: 3 	 T: kernel_launch(18.801485)
+F:  8964228----T:  8966833 	 St: c0230000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  8964228----T:  8972930 	 St: c0640000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8966833----T:  8975073 	 St: c0231000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  8972931----T:  8981633 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  8975073----T:  8977678 	 St: c0640000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  8977678----T:  8985918 	 St: c0641000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  9208069----T:  9229866 	 	 	 Kl: 36 	 Sm: 3 	 T: kernel_launch(14.717758)
+F:  9208440----T:  9211240 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F:  9208440----T:  9217142 	 St: c0240000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9211240----T:  9219020 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F:  9217143----T:  9225845 	 St: c0250000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9219020----T:  9221625 	 St: c0240000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  9221625----T:  9229865 	 St: c0241000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  9452016----T:  9479882 	 	 	 Kl: 37 	 Sm: 3 	 T: kernel_launch(18.815664)
+F:  9458191----T:  9460796 	 St: c0250000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  9458191----T:  9466893 	 St: c0660000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9460796----T:  9469036 	 St: c0251000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  9466894----T:  9475596 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9469036----T:  9471641 	 St: c0660000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  9471641----T:  9479881 	 St: c0661000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  9702032----T:  9749499 	 	 	 Kl: 38 	 Sm: 3 	 T: kernel_launch(32.050640)
+F:  9702403----T:  9705203 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F:  9702403----T:  9711105 	 St: c0260000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9705203----T:  9712983 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F:  9711106----T:  9719808 	 St: c0010000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9712983----T:  9715588 	 St: c0260000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  9715588----T:  9723828 	 St: c0261000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  9719809----T:  9728511 	 St: c0410000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9723828----T:  9726433 	 St: c0010000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  9726433----T:  9734673 	 St: c0011000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F:  9728512----T:  9737214 	 St: c0680000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9734673----T:  9737473 	 St: c0410000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F:  9737473----T:  9745253 	 St: c0412000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F:  9971649----T:  9989080 	 	 	 Kl: 39 	 Sm: 3 	 T: kernel_launch(11.769751)
+F:  9978234----T:  9980839 	 St: c0680000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F:  9978234----T:  9986936 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F:  9980839----T:  9989079 	 St: c0681000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10211230----T: 10233129 	 	 	 Kl: 40 	 Sm: 3 	 T: kernel_launch(14.786631)
+F: 10211703----T: 10214503 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 10211703----T: 10220405 	 St: c0690000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10214503----T: 10222283 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 10220406----T: 10229108 	 St: c00b0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10222283----T: 10224888 	 St: c0690000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10224888----T: 10233128 	 St: c0691000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10455279----T: 10487921 	 	 	 Kl: 41 	 Sm: 3 	 T: kernel_launch(22.040514)
+F: 10455650----T: 10458450 	 St: c00b0000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 10455650----T: 10464352 	 St: c0290000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10458450----T: 10466230 	 St: c00b2000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 10464353----T: 10473055 	 St: c00c0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10466230----T: 10468835 	 St: c0290000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10468835----T: 10477075 	 St: c0291000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10473056----T: 10481758 	 St: c0490000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10477075----T: 10479680 	 St: c00c0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10479680----T: 10487920 	 St: c00c1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10710071----T: 10731942 	 	 	 Kl: 42 	 Sm: 3 	 T: kernel_launch(14.767724)
+F: 10710251----T: 10712856 	 St: c0490000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10710251----T: 10718953 	 St: c02a0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10712856----T: 10721096 	 St: c0491000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10718954----T: 10727656 	 St: c02b0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10721096----T: 10723701 	 St: c02a0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10723701----T: 10731941 	 St: c02a1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10954092----T: 10981936 	 	 	 Kl: 43 	 Sm: 3 	 T: kernel_launch(18.800810)
+F: 10960245----T: 10962850 	 St: c02b0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10960245----T: 10968947 	 St: c06c0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10962850----T: 10971090 	 St: c02b1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 10968948----T: 10977650 	 St: c0140000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 10971090----T: 10973695 	 St: c06c0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 10973695----T: 10981935 	 St: c06c1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 11204086----T: 11225983 	 	 	 Kl: 44 	 Sm: 3 	 T: kernel_launch(14.785280)
+F: 11204557----T: 11207357 	 St: c0140000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 11204557----T: 11213259 	 St: c06d0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11207357----T: 11215137 	 St: c0142000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 11213260----T: 11221962 	 St: c02d0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11215137----T: 11217742 	 St: c06d0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 11217742----T: 11225982 	 St: c06d1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 11448133----T: 11476024 	 	 	 Kl: 45 	 Sm: 3 	 T: kernel_launch(18.832546)
+F: 11454333----T: 11456938 	 St: c02d0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 11454333----T: 11463035 	 St: c06e0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11456938----T: 11465178 	 St: c02d1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 11463036----T: 11471738 	 St: c0040000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11465178----T: 11467783 	 St: c06e0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 11467783----T: 11476023 	 St: c06e1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 11698174----T: 11719973 	 	 	 Kl: 46 	 Sm: 3 	 T: kernel_launch(14.719109)
+F: 11698547----T: 11701347 	 St: c0040000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 11698547----T: 11707249 	 St: c02e0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11701347----T: 11709127 	 St: c0042000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 11707250----T: 11715952 	 St: c02f0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11709127----T: 11711732 	 St: c02e0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 11711732----T: 11719972 	 St: c02e1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 11942123----T: 11969968 	 	 	 Kl: 47 	 Sm: 3 	 T: kernel_launch(18.801485)
+F: 11948277----T: 11950882 	 St: c02f0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 11948277----T: 11956979 	 St: c0700000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11950882----T: 11959122 	 St: c02f1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 11956980----T: 11965682 	 St: c0050000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 11959122----T: 11961727 	 St: c0700000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 11961727----T: 11969967 	 St: c0701000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 12192118----T: 12213915 	 	 	 Kl: 48 	 Sm: 3 	 T: kernel_launch(14.717758)
+F: 12192489----T: 12195289 	 St: c0050000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 12192489----T: 12201191 	 St: c0710000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12195289----T: 12203069 	 St: c0052000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 12201192----T: 12209894 	 St: c0310000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12203069----T: 12205674 	 St: c0710000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 12205674----T: 12213914 	 St: c0711000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 12436065----T: 12463910 	 	 	 Kl: 49 	 Sm: 3 	 T: kernel_launch(18.801485)
+F: 12442219----T: 12444824 	 St: c0310000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 12442219----T: 12450921 	 St: c0720000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12444824----T: 12453064 	 St: c0311000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 12450922----T: 12459624 	 St: c0060000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12453064----T: 12455669 	 St: c0720000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 12455669----T: 12463909 	 St: c0721000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 12686060----T: 12707859 	 	 	 Kl: 50 	 Sm: 3 	 T: kernel_launch(14.719109)
+F: 12686433----T: 12689233 	 St: c0060000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 12686433----T: 12695135 	 St: c0730000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12689233----T: 12697013 	 St: c0062000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 12695136----T: 12703838 	 St: c0330000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12697013----T: 12699618 	 St: c0730000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 12699618----T: 12707858 	 St: c0731000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 12930009----T: 12957865 	 	 	 Kl: 51 	 Sm: 3 	 T: kernel_launch(18.808912)
+F: 12936174----T: 12938779 	 St: c0330000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 12936174----T: 12944876 	 St: c0740000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12938779----T: 12947019 	 St: c0331000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 12944877----T: 12953579 	 St: c0070000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 12947019----T: 12949624 	 St: c0740000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 12949624----T: 12957864 	 St: c0741000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 13180015----T: 13201916 	 	 	 Kl: 52 	 Sm: 3 	 T: kernel_launch(14.787981)
+F: 13180490----T: 13183290 	 St: c0070000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 13180490----T: 13189192 	 St: c0750000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13183290----T: 13191070 	 St: c0072000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 13189193----T: 13197895 	 St: c0350000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13191070----T: 13193675 	 St: c0750000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 13193675----T: 13201915 	 St: c0751000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 13424066----T: 13451935 	 	 	 Kl: 53 	 Sm: 3 	 T: kernel_launch(18.817690)
+F: 13430244----T: 13432849 	 St: c0350000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 13430244----T: 13438946 	 St: c0760000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13432849----T: 13441089 	 St: c0351000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 13438947----T: 13447649 	 St: c0080000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13441089----T: 13443694 	 St: c0760000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 13443694----T: 13451934 	 St: c0761000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 13674085----T: 13695884 	 	 	 Kl: 54 	 Sm: 3 	 T: kernel_launch(14.719109)
+F: 13674458----T: 13677258 	 St: c0080000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 13674458----T: 13683160 	 St: c0770000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13677258----T: 13685038 	 St: c0082000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 13683161----T: 13691863 	 St: c0370000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13685038----T: 13687643 	 St: c0770000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 13687643----T: 13695883 	 St: c0771000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 13918034----T: 13945915 	 	 	 Kl: 55 	 Sm: 3 	 T: kernel_launch(18.825794)
+F: 13924224----T: 13926829 	 St: c0370000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 13924224----T: 13932926 	 St: c0780000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13926829----T: 13935069 	 St: c0371000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 13932927----T: 13941629 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 13935069----T: 13937674 	 St: c0780000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 13937674----T: 13945914 	 St: c0781000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 14168065----T: 14200833 	 	 	 Kl: 56 	 Sm: 3 	 T: kernel_launch(22.125591)
+F: 14168562----T: 14171362 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 14168562----T: 14177264 	 St: c0600000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14171362----T: 14179142 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 14177265----T: 14185967 	 St: c0010000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14179142----T: 14181747 	 St: c0600000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 14181747----T: 14189987 	 St: c0601000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 14185968----T: 14194670 	 St: c0390000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14189987----T: 14192592 	 St: c0010000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 14192592----T: 14200832 	 St: c0011000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 14422983----T: 14450909 	 	 	 Kl: 57 	 Sm: 3 	 T: kernel_launch(18.856178)
+F: 14429218----T: 14431823 	 St: c0390000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 14429218----T: 14437920 	 St: c07a0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14431823----T: 14440063 	 St: c0391000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 14437921----T: 14446623 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14440063----T: 14442668 	 St: c07a0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 14442668----T: 14450908 	 St: c07a1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 14673059----T: 14698972 	 	 	 Kl: 58 	 Sm: 3 	 T: kernel_launch(17.496962)
+F: 14673556----T: 14676356 	 St: c0000000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 14673556----T: 14682258 	 St: c05f0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14676356----T: 14684136 	 St: c0002000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 14682259----T: 14690961 	 St: c00a0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14684136----T: 14686936 	 St: c05f0000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 14686936----T: 14694716 	 St: c05f2000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 14921122----T: 14953909 	 	 	 Kl: 59 	 Sm: 3 	 T: kernel_launch(22.138420)
+F: 14921638----T: 14924438 	 St: c00a0000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 14921638----T: 14930340 	 St: c07c0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14924438----T: 14932218 	 St: c00a2000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 14930341----T: 14939043 	 St: c00b0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14932218----T: 14934823 	 St: c07c0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 14934823----T: 14943063 	 St: c07c1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 14939044----T: 14947746 	 St: c03c0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 14943063----T: 14945668 	 St: c00b0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 14945668----T: 14953908 	 St: c00b1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15176059----T: 15203937 	 	 	 Kl: 60 	 Sm: 3 	 T: kernel_launch(18.823769)
+F: 15182246----T: 15184851 	 St: c03c0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15182246----T: 15190948 	 St: c07d0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15184851----T: 15193091 	 St: c03c1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15190949----T: 15199651 	 St: c00f0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15193091----T: 15195696 	 St: c07d0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15195696----T: 15203936 	 St: c07d1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15426087----T: 15458858 	 	 	 Kl: 61 	 Sm: 3 	 T: kernel_launch(22.127617)
+F: 15426587----T: 15429387 	 St: c00f0000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 15426587----T: 15435289 	 St: c07e0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15429387----T: 15437167 	 St: c00f2000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 15435290----T: 15443992 	 St: c0100000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15437167----T: 15439772 	 St: c07e0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15439772----T: 15448012 	 St: c07e1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15443993----T: 15452695 	 St: c03e0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15448012----T: 15450617 	 St: c0100000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15450617----T: 15458857 	 St: c0101000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15681008----T: 15708936 	 	 	 Kl: 62 	 Sm: 3 	 T: kernel_launch(18.857529)
+F: 15687245----T: 15689850 	 St: c03e0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15687245----T: 15695947 	 St: c07f0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15689850----T: 15698090 	 St: c03e1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15695948----T: 15704650 	 St: c0120000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15698090----T: 15700695 	 St: c07f0000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15700695----T: 15708935 	 St: c07f1000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15931086----T: 15968196 	 	 	 Kl: 63 	 Sm: 3 	 T: kernel_launch(25.057394)
+F: 15931584----T: 15934384 	 St: c0120000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 15931584----T: 15940286 	 St: c0800000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15934384----T: 15942164 	 St: c0122000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 15940287----T: 15948989 	 St: c0130000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15942164----T: 15944769 	 St: c0800000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15944769----T: 15953009 	 St: c0801000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 15948990----T: 15957692 	 St: c0370000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 15953009----T: 15955614 	 St: c0130000 Sz: 4096 	 Sm: 0 	 T: memcpy_h2d(1.758947)
+F: 15955614----T: 15963854 	 St: c0131000 Sz: 61440 	 Sm: 0 	 T: memcpy_h2d(5.563808)
+F: 16190346----T: 16216357 	 	 	 Kl: 64 	 Sm: 3 	 T: kernel_launch(17.563133)
+F: 16190941----T: 16193741 	 St: c0370000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 16190941----T: 16199643 	 St: c06f0000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 16193741----T: 16201521 	 St: c0372000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 16199644----T: 16208346 	 St: c0040000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 16201521----T: 16204321 	 St: c06f0000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 16204321----T: 16212101 	 St: c06f2000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 16438507----T: 16464301 	 	 	 Kl: 65 	 Sm: 3 	 T: kernel_launch(17.416611)
+F: 16439298----T: 16442384 	 St: c0040000 Sz: 12288 	 Sm: 0 	 T: memcpy_h2d(2.083727)
+F: 16439298----T: 16448000 	 St: c0560000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 16442384----T: 16449706 	 St: c0043000 Sz: 53248 	 Sm: 0 	 T: memcpy_h2d(4.943957)
+F: 16448001----T: 16456703 	 St: c0000000 Sz: 65536 	 Sm: 0 	 T: write_back(5.875760)
+F: 16449706----T: 16452506 	 St: c0560000 Sz: 8192 	 Sm: 0 	 T: memcpy_h2d(1.890614)
+F: 16452506----T: 16460286 	 St: c0562000 Sz: 57344 	 Sm: 0 	 T: memcpy_h2d(5.253207)
+F: 16686451----T: 16698440 	 	 	 Kl: 66 	 Sm: 3 	 T: kernel_launch(8.095206)
+F: 16920590----T: 16931496 	 	 	 Kl: 67 	 Sm: 3 	 T: kernel_launch(7.363943)
+F: 17153646----T: 17164633 	 	 	 Kl: 68 	 Sm: 3 	 T: kernel_launch(7.418636)
+F: 17386783----T: 17397776 	 	 	 Kl: 69 	 Sm: 3 	 T: kernel_launch(7.422688)
+F: 17619926----T: 17631268 	 	 	 Kl: 70 	 Sm: 3 	 T: kernel_launch(7.658339)
+F: 17853418----T: 17864394 	 	 	 Kl: 71 	 Sm: 3 	 T: kernel_launch(7.411209)
+F: 18086544----T: 18096590 	 	 	 Kl: 72 	 Sm: 3 	 T: kernel_launch(6.783255)
+F: 18318740----T: 18328454 	 	 	 Kl: 73 	 Sm: 3 	 T: kernel_launch(6.559082)
+F: 18550604----T: 18560592 	 	 	 Kl: 74 	 Sm: 3 	 T: kernel_launch(6.744092)
+F: 18782742----T: 18792359 	 	 	 Kl: 75 	 Sm: 3 	 T: kernel_launch(6.493586)
+F: 19014509----T: 19024432 	 	 	 Kl: 76 	 Sm: 3 	 T: kernel_launch(6.700202)
+F: 19246582----T: 19256100 	 	 	 Kl: 77 	 Sm: 3 	 T: kernel_launch(6.426739)
+F: 19478250----T: 19488060 	 	 	 Kl: 78 	 Sm: 3 	 T: kernel_launch(6.623903)
+F: 19710210----T: 19719628 	 	 	 Kl: 79 	 Sm: 3 	 T: kernel_launch(6.359217)
+F: 19941778----T: 19951475 	 	 	 Kl: 80 	 Sm: 3 	 T: kernel_launch(6.547603)
+F: 20173625----T: 20182981 	 	 	 Kl: 81 	 Sm: 3 	 T: kernel_launch(6.317353)
+F: 20405131----T: 20416141 	 	 	 Kl: 82 	 Sm: 3 	 T: kernel_launch(7.434166)
+F: 20638291----T: 20649052 	 	 	 Kl: 83 	 Sm: 3 	 T: kernel_launch(7.266037)
+F: 20871202----T: 20880569 	 	 	 Kl: 84 	 Sm: 3 	 T: kernel_launch(6.324780)
+F: 21102719----T: 21113596 	 	 	 Kl: 85 	 Sm: 3 	 T: kernel_launch(7.344362)
+F: 21335746----T: 21346722 	 	 	 Kl: 86 	 Sm: 3 	 T: kernel_launch(7.411209)
+F: 21568872----T: 21578091 	 	 	 Kl: 87 	 Sm: 3 	 T: kernel_launch(6.224848)
+F: 21800241----T: 21809694 	 	 	 Kl: 88 	 Sm: 3 	 T: kernel_launch(6.382849)
+F: 22031844----T: 22042722 	 	 	 Kl: 89 	 Sm: 3 	 T: kernel_launch(7.345037)
+F: 22264872----T: 22275793 	 	 	 Kl: 90 	 Sm: 3 	 T: kernel_launch(7.374072)
+F: 22497943----T: 22507118 	 	 	 Kl: 91 	 Sm: 3 	 T: kernel_launch(6.195138)
+F: 22729268----T: 22738683 	 	 	 Kl: 92 	 Sm: 3 	 T: kernel_launch(6.357191)
+F: 22960833----T: 22971588 	 	 	 Kl: 93 	 Sm: 3 	 T: kernel_launch(7.261985)
+F: 23193738----T: 23202821 	 	 	 Kl: 94 	 Sm: 3 	 T: kernel_launch(6.133018)
+F: 23424971----T: 23433992 	 	 	 Kl: 95 	 Sm: 3 	 T: kernel_launch(6.091155)
+F: 23656142----T: 23665219 	 	 	 Kl: 96 	 Sm: 3 	 T: kernel_launch(6.128967)
+F: 23887369----T: 23898077 	 	 	 Kl: 97 	 Sm: 3 	 T: kernel_launch(7.230250)
+F: 24120227----T: 24129201 	 	 	 Kl: 98 	 Sm: 3 	 T: kernel_launch(6.059419)
+F: 24351351----T: 24360325 	 	 	 Kl: 99 	 Sm: 3 	 T: kernel_launch(6.059419)
+F: 24582475----T: 24591460 	 	 	 Kl: 100 	 Sm: 3 	 T: kernel_launch(6.066847)
+F: 24813610----T: 24822545 	 	 	 Kl: 101 	 Sm: 3 	 T: kernel_launch(6.033086)
+F: 25044695----T: 25053654 	 	 	 Kl: 102 	 Sm: 3 	 T: kernel_launch(6.049291)
+F: 25275804----T: 25284738 	 	 	 Kl: 103 	 Sm: 3 	 T: kernel_launch(6.032411)
+F: 25506888----T: 25515763 	 	 	 Kl: 104 	 Sm: 3 	 T: kernel_launch(5.992573)
+F: 25737913----T: 25746755 	 	 	 Kl: 105 	 Sm: 3 	 T: kernel_launch(5.970290)
+F: 25968905----T: 25977682 	 	 	 Kl: 106 	 Sm: 3 	 T: kernel_launch(5.926401)
+F: 26199832----T: 26206764 	 	 	 Kl: 107 	 Sm: 3 	 T: kernel_launch(4.680621)
+F: 26428914----T: 26437623 	 	 	 Kl: 108 	 Sm: 3 	 T: kernel_launch(5.880486)
+F: 26659773----T: 26666575 	 	 	 Kl: 109 	 Sm: 3 	 T: kernel_launch(4.592843)
+F: 26888725----T: 26897392 	 	 	 Kl: 110 	 Sm: 3 	 T: kernel_launch(5.852127)
+F: 27119542----T: 27126325 	 	 	 Kl: 111 	 Sm: 3 	 T: kernel_launch(4.580013)
+F: 27348475----T: 27357074 	 	 	 Kl: 112 	 Sm: 3 	 T: kernel_launch(5.806212)
+F: 27579224----T: 27586025 	 	 	 Kl: 113 	 Sm: 3 	 T: kernel_launch(4.592167)
+F: 27808175----T: 27816751 	 	 	 Kl: 114 	 Sm: 3 	 T: kernel_launch(5.790682)
+F: 28038901----T: 28045658 	 	 	 Kl: 115 	 Sm: 3 	 T: kernel_launch(4.562458)
+F: 28267808----T: 28276351 	 	 	 Kl: 116 	 Sm: 3 	 T: kernel_launch(5.768400)
+F: 28498501----T: 28505257 	 	 	 Kl: 117 	 Sm: 3 	 T: kernel_launch(4.561782)
+F: 28727407----T: 28735935 	 	 	 Kl: 118 	 Sm: 3 	 T: kernel_launch(5.758271)
+F: 28958085----T: 28964842 	 	 	 Kl: 119 	 Sm: 3 	 T: kernel_launch(4.562458)
+F: 29186992----T: 29195513 	 	 	 Kl: 120 	 Sm: 3 	 T: kernel_launch(5.753545)
+F: 29417663----T: 29424422 	 	 	 Kl: 121 	 Sm: 3 	 T: kernel_launch(4.563808)
+F: 29646572----T: 29655091 	 	 	 Kl: 122 	 Sm: 3 	 T: kernel_launch(5.752194)
+F: 29877241----T: 29884000 	 	 	 Kl: 123 	 Sm: 3 	 T: kernel_launch(4.563808)
+F: 30106150----T: 30114662 	 	 	 Kl: 124 	 Sm: 3 	 T: kernel_launch(5.747468)
+F: 30336812----T: 30343569 	 	 	 Kl: 125 	 Sm: 3 	 T: kernel_launch(4.562458)
+F: 30565719----T: 30574192 	 	 	 Kl: 126 	 Sm: 3 	 T: kernel_launch(5.721134)
+F: 30796342----T: 30803290 	 	 	 Kl: 127 	 Sm: 3 	 T: kernel_launch(4.691425)
+F: 30803290----T: 30805895 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 30803290----T: 30811530 	 St: 0 Sz: 61440 	 Sm: 0 	 T: device_sync(5.563808)
+F: 30814135----T: 30816740 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 30814135----T: 30822375 	 St: 0 Sz: 61440 	 Sm: 0 	 T: device_sync(5.563808)
+F: 30824980----T: 30827585 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 30824980----T: 30840675 	 St: 0 Sz: 126976 	 Sm: 0 	 T: device_sync(10.597569)
+F: 30843280----T: 30845885 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 30843280----T: 30874003 	 St: 0 Sz: 258048 	 Sm: 0 	 T: device_sync(20.744766)
+F: 30876608----T: 30879213 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 30876608----T: 30937444 	 St: 0 Sz: 520192 	 Sm: 0 	 T: device_sync(41.077652)
+F: 30940049----T: 30942654 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 30940049----T: 31061138 	 St: 0 Sz: 1044480 	 Sm: 0 	 T: device_sync(81.761650)
+F: 31063743----T: 31066348 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31063743----T: 31071983 	 St: 0 Sz: 61440 	 Sm: 0 	 T: device_sync(5.563808)
+F: 31074588----T: 31077193 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31074588----T: 31082828 	 St: 0 Sz: 61440 	 Sm: 0 	 T: device_sync(5.563808)
+F: 31085433----T: 31088038 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31085433----T: 31101128 	 St: 0 Sz: 126976 	 Sm: 0 	 T: device_sync(10.597569)
+F: 31103733----T: 31106338 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31103733----T: 31134456 	 St: 0 Sz: 258048 	 Sm: 0 	 T: device_sync(20.744766)
+F: 31137061----T: 31139666 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31137061----T: 31197897 	 St: 0 Sz: 520192 	 Sm: 0 	 T: device_sync(41.077652)
+F: 31200502----T: 31203107 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31200502----T: 31321591 	 St: 0 Sz: 1044480 	 Sm: 0 	 T: device_sync(81.761650)
+F: 31324196----T: 31326801 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+F: 31324196----T: 31326801 	 St: 0 Sz: 4096 	 Sm: 0 	 T: device_sync(1.758947)
+Tot_prefetch_time: 985077(cycle), 665.143127(us)
+Tot_kernel_exec_time: 2520455(cycle), 1701.860229(us)
+Thrashing Counter: 1426
+Hit Counter: 29833
+Tot_kernel_exec_time_and_fault_time: 7518830(cycle), 5076.860352(us)
+Tot_memcpy_h2d_time: 1781600(cycle), 1202.970947(us)
+Tot_memcpy_d2h_time: 0(cycle), 0.000000(us)
+Tot_memcpy_time: 1781600(cycle), 1202.970947(us)
+Tot_devicesync_time: 526116(cycle), 355.243744(us)
+Tot_writeback_time: 661352(cycle), 446.557739(us)
+Tot_dma_time: 0(cycle), 0.000000(us)
+Tot_memcpy_d2h_sync_wb_time: 1187468(cycle), 801.801514(us)
+GPGPU-Sim: *** exit detected ***
+
