@@ -3369,9 +3369,9 @@ void gmmu_t::cycle()
 	    mem_addr_t page_num = m_gpu->get_global_memory()->get_page_num( mf->get_mem_access().get_addr());
         /************************************************************************************************************* */
         
-        if(m_gpu->get_global_memory()->is_prefetched(page_num)){
+        /*if(m_gpu->get_global_memory()->is_prefetched(page_num)){
             m_gpu->get_global_memory()->decrement_counter();
-        }
+        }*/
 
         /************************************************************************************************************** */
 	    check_write_stage_queue(page_num, false);

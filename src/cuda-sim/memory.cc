@@ -280,6 +280,11 @@ template<unsigned BSIZE> std::list<mem_addr_t> memory_space_impl<BSIZE>::get_fau
           }
           page_list.push_back(start_page);
       }
+      else{
+         if(is_prefetched(start_page)){
+            decrement_counter();
+         }
+      }
       start_page++;
   }
 
